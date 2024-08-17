@@ -35,7 +35,7 @@ Então, prepare-se para mergulhar no mundo de blocos, aventuras e infinitas poss
 <hr>
 <a href="" download="" class="download-link"></a>
 
-    <a href="https://www.mediafire.com/file/s17clr37gw9rv9c/Dragon_Ball_Z_-_Shin_Budokai_2.iso/file" download="Dragon ball z shin budokai 2" class="download-link">DBZ2</a>
+    <a href="https://www.mediafire.com/file/s17clr37gw9rv9c/Dragon_Ball_Z_-_Shin_Budokai_2.iso/file" download="Dragon ball z shin budokai 2" class="download-link">DBZ</a>
 
 
 
