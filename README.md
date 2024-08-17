@@ -26,9 +26,8 @@ Seja você um novato ou um jogador experiente, esperamos que este guia possa aju
 
 Então, prepare-se para mergulhar no mundo de blocos, aventuras e infinitas possibilidades que é Minecraft!</p>
 <hr>
-</body>
 
-</html>
+
 
 
 
