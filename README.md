@@ -1,20 +1,3 @@
-
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MEDIAOCAI</title>
-</head>
-<link rel="stylesheet" type="text/css" href="Untitled-1.css">
-<body>
-
-<h1>SEJA BEM VINDO</h1>
-<h2>atenção qualquer download sera baixado instantaneamente ao ser clickado
-    nesse site você uma instalara uma imensidade de jogos via instantaneamente
-    <hr>
-</h2>
-<h1>MINECRAFT </h1>
-<hr>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -39,6 +22,9 @@
 </body>
 
 </html>
+
+
+
 
 
 
