@@ -39,6 +39,8 @@ Então, prepare-se para mergulhar no mundo de blocos, aventuras e infinitas poss
 <hr>
 
 
+<body style="background-color: black;"></body>
+
     
 
 
