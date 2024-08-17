@@ -9,6 +9,13 @@ body {color: rgb(116, 61, 61);
     
 
 
+header {
+    background: #9a5b5b;
+    color: #fff;
+    padding-top: 10px;
+    min-height: 70px;
+    border-bottom: #fff 3px solid;
+}
 
 
 
