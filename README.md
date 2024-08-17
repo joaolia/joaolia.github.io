@@ -41,5 +41,4 @@ Então, prepare-se para mergulhar no mundo de blocos, aventuras e infinitas poss
 
     
 
-</html>
-</body>
+
