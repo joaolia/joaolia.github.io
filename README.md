@@ -8,7 +8,7 @@
 <link rel="stylesheet" type="text/css" href="Untitled-1.css">
 <body>
 
-<h1>SEJA BEM VINDO</h1>
+<span class="header">bem vindo</span><br><br>
 <h2>voce sera transferido instantaneamente para o download ao clickar no link de download
     
     <hr>
