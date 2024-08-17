@@ -28,7 +28,7 @@ Seja você um novato ou um jogador experiente, esperamos que este guia possa aju
 Então, prepare-se para mergulhar no mundo de blocos, aventuras e infinitas possibilidades que é Minecraft!</p>
 <hr>
 <h1>MINECRAFT 1.21</h1>
-<a href="https:"https://www.mediafire.com/file/vi7iqqw76olruzf/minecraft-1-21-1-03+by+THIAGO+DROID.apk/file" download="MINECRAFT" class="download-link">Minecraft 1.21</a>
+<a href="https:"https://download2445.mediafire.com/zix13uruoqhgme3nJy5YcEFBnW4Grr_f3teRh98uJs0XtiNSWtX-gI5CQGxO0-lpRUmaze4ADXp2rzxB_kWx3rSSCksmryN9v_EjWcAdechqeEIH5E7Or5Q69Ppjf7jQcI75l_8LLY6d6xMB6h34oglr-u9AdvO0nEYEwWDJvAAtc6g/vi7iqqw76olruzf/minecraft-1-21-1-03+by+THIAGO+DROID.apk" download="MINECRAFT" class="download-link">Minecraft 1.21</a>
 <hr>
 <h1>JOGOS PPSSPP</h1>
 
