@@ -7,10 +7,8 @@
 </head>
 <link rel="stylesheet" type="text/css" href="Untitled-1.css">
 <body>
-
-<span class="header">bem vindo</span><br><br>
-<h2>voce sera transferido instantaneamente para o download ao clickar no link de download
-    
+<h1>Seja bem vindo
+    <h2>voce sera instantaneamente transferido para o download ao clickar no link de download</h2>
     <hr>
 </h2>
 <h1>MINECRAFT 1.20.1</h1>
