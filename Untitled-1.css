@@ -1,0 +1,57 @@
+body {color: rgb(116, 61, 61);
+    font-family: verdana,'Segoe UI', Tahoma, sans-serif;
+    font: size 50px;
+    
+    font-weight: bold;
+    
+    
+    #id1{ font-size: 24px;
+    
+
+
+
+
+
+}
+p{
+
+
+font-size: 20px;
+
+
+
+}
+
+p.classe1 {
+
+    color: rgb(0, 0, 0);}
+
+
+
+
+h1{text-align: center;}
+
+
+
+
+
+
+.p{      
+    font-family: arial;
+        font-size: 12pt;
+                text-align: center;
+                    text-align: justify;
+
+
+
+}
+
+/* Estilizando o link de download */
+.download-link {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fffcfc;
+    background-color: #007bff;
+    text-decoration: none;
+    
+}
