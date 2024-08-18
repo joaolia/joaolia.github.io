@@ -44,7 +44,7 @@ Então, prepare-se para mergulhar no mundo de blocos, aventuras e infinitas poss
 <hr>
 
 <a>God of war 2</a>
-<a href="https://download2436.mediafire.com/zy8w9v3wceagKb4M_lgcCkxifIpicV5QqxuIE0652Nq83A6Kem2v8UsLFVKKKpcsPypKzOb00jWUTelK3hkWSJgeMKMeGNL17g2TiwH-9lUGMxFV2vrakS8Yk3YCh7C909YnFvRE4QTbTJAdH_MOSVGSovOJ4C31Sn22A8TeuFfIcyE/y47d23x7w76inp0/God+of+War+2++%28PT-BR%29+.iso" download="DBZ budokai" class="download-link">DBZBT</a>
+<a href="https://download2436.mediafire.com/zy8w9v3wceagKb4M_lgcCkxifIpicV5QqxuIE0652Nq83A6Kem2v8UsLFVKKKpcsPypKzOb00jWUTelK3hkWSJgeMKMeGNL17g2TiwH-9lUGMxFV2vrakS8Yk3YCh7C909YnFvRE4QTbTJAdH_MOSVGSovOJ4C31Sn22A8TeuFfIcyE/y47d23x7w76inp0/God+of+War+2++%28PT-BR%29+.iso" download="gow 2" class="download-link">GOW 2</a>
 
 <body style="background-color: BLACK;"></body>
 
