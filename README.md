@@ -7,7 +7,7 @@
 </head>
 <link rel="stylesheet" type="text/css" href="Untitled-1.css">
 <body>
-<h1>Seja bem vindo
+<h1>Seja bem vindo</h1>
     <h2>voce sera instantaneamente transferido para o download ao clickar no link de download</h2>
     <hr>
 
