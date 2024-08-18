@@ -1,4 +1,4 @@
-body {color: WHITE);
+body {color: rgb(116, 61, 61);
     font-family: verdana,'Segoe UI', Tahoma, sans-serif;
     font: size 50px;
     
@@ -8,10 +8,12 @@ body {color: WHITE);
     #id1{ font-size: 24px;
     
 
-.H1{ TEXT-ALIGN : CENTER;}
 
 
-.p{
+
+
+}
+p{
 
 
 font-size: 20px;
@@ -22,13 +24,12 @@ font-size: 20px;
 
 p.classe1 {
 
-    color: rgb(WHITE
-              );}
+    color: rgb(0, 0, 0);}
 
 
 
 
-.h1{text-align: center;}
+h1{text-align: center;}
 
 
 
@@ -54,6 +55,10 @@ p.classe1 {
     text-decoration: none;
     
 }
-       body {
-    background-color: #ffffff;
+
+
+color-block { width: 25px; background-color:#f4a261;}
+
+.body {
+    background-color: #000000; /* Muda a cor de fundo do corpo do site */
 }
