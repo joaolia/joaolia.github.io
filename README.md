@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -37,7 +37,15 @@ Então, prepare-se para mergulhar no mundo de blocos, aventuras e infinitas poss
 <a>Dragon ball z shin budokai 2</a>
     <a href="https://www.mediafire.com/file/s17clr37gw9rv9c/Dragon_Ball_Z_-_Shin_Budokai_2.iso/file" download="Dragon ball z shin budokai 2" class="download-link">DBZ2</a>
 <hr>
+<a>DBZ Budokai tenkaichi 4</a>
 
+<a href="https://download2303.mediafire.com/4irtur3hb2gglPdA9Gjg7HblooyKLMATZT5Lot1wutn9clL6PVCI4Si5EDhRpjDxsrUZ4dWNmsl-5ladFzi0ZfHkQ6sQXLl3Y3Az_CTqS01lv0dl4YJlSz6yli3VBHXfsF_bRAYmw4nZGalpcMxstqu3sRduMvDSvGAezWpM9CaUWvI/tz1c90019eeut02/Dragon+Ball+Z+-+Tenkaichi+Tag+Team+%28USA%29+.iso" download="DBZ budokai" class="download-link">DBZBT</a>
+
+<hr>
+
+<a>God of war 2</a>
+
+<a href="https://download2436.mediafire.com/o7th6oaqdjpgAQJ0R7DYGpFsUyRVvy5ePQZPeRJlmhffVYeuBZ8iaJ2ljVYN-4gQiXSyTh51C0SWxXJ3wAKzOUbTSGdpBgOgNVvR900qqwwhm5d1RxKG6rsehZnz_vP6c8cYABlwzS_M9QNLuO0ezXPa_UkyGYFfJdxWNwX0BVspxl0/y47d23x7w76inp0/God+of+War+2++%28PT-BR%29+.iso" download="GOW 2" class="download-link"</a>
 
 <body style="background-color: BLACK;"></body>
 
