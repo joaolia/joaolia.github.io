@@ -39,13 +39,12 @@ Então, prepare-se para mergulhar no mundo de blocos, aventuras e infinitas poss
 <hr>
 <a>DBZ Budokai tenkaichi 4</a>
 
-<a href="https://download2303.mediafire.com/4irtur3hb2gglPdA9Gjg7HblooyKLMATZT5Lot1wutn9clL6PVCI4Si5EDhRpjDxsrUZ4dWNmsl-5ladFzi0ZfHkQ6sQXLl3Y3Az_CTqS01lv0dl4YJlSz6yli3VBHXfsF_bRAYmw4nZGalpcMxstqu3sRduMvDSvGAezWpM9CaUWvI/tz1c90019eeut02/Dragon+Ball+Z+-+Tenkaichi+Tag+Team+%28USA%29+.iso" download="DBZ budokai" class="download-link">DBZBT</a>
+<a href="https://download2303.mediafire.com/4irtur3hb2gglPdA9Gjg7HblooyKLMATZT5Lot1wutn9clL6PVCI4Si5EDhRpjDxsrUZ4dWNmsl-5ladFzi0ZfHkQ6sQXLl3Y3Az_CTqS01lv0dl4YJlSz6yli3VBHXfsF_bRAYmw4nZGalpcMxstqu3sRduMvDSvGAezWpM9CaUWvI/tz1c90019eeut02/Dragon+Ball+Z+-+Tenkaichi+Tag+Team+%28USAhttps://download2436.mediafire.com/zy8w9v3wceagKb4M_lgcCkxifIpicV5QqxuIE0652Nq83A6Kem2v8UsLFVKKKpcsPypKzOb00jWUTelK3hkWSJgeMKMeGNL17g2TiwH-9lUGMxFV2vrakS8Yk3YCh7C909YnFvRE4QTbTJAdH_MOSVGSovOJ4C31Sn22A8TeuFfIcyE/y47d23x7w76inp0/God+of+War+2++%28PT-BR%29+.iso%29+.iso" download="DBZ budokai" class="download-link">DBZBT</a>
 
 <hr>
 
 <a>God of war 2</a>
-<hr>
-<a href="https://www.mediafire.com/file/y47d23x7w76inp0/God+of+War+2++(PT-BR)+.iso/file" download="GOW 2" class="download-link"</a>
+<a href="https://download2436.mediafire.com/zy8w9v3wceagKb4M_lgcCkxifIpicV5QqxuIE0652Nq83A6Kem2v8UsLFVKKKpcsPypKzOb00jWUTelK3hkWSJgeMKMeGNL17g2TiwH-9lUGMxFV2vrakS8Yk3YCh7C909YnFvRE4QTbTJAdH_MOSVGSovOJ4C31Sn22A8TeuFfIcyE/y47d23x7w76inp0/God+of+War+2++%28PT-BR%29+.iso" download="DBZ budokai" class="download-link">DBZBT</a>
 
 <body style="background-color: BLACK;"></body>
 
